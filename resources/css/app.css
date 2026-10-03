@@ -1,0 +1,9 @@
+@import 'tailwindcss';
+
+@source '../../storage/framework/views/*.php';
+
+@theme {
+    --color-nuit: #1F3A5F;
+    --color-nuit-clair: #2B4F82;
+    --font-sans: ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+}
